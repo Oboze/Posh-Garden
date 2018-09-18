@@ -10,9 +10,8 @@ body{
 	padding:8px 0;
 	border-radius:3px;
 	font-family: 'Lato', sans-serif;
-	width:100%;
-	
 }
+
 
 li#title{
 	display:inline;
@@ -35,16 +34,16 @@ li.menu-item{
 li.menu-item a{
 	text-decoration:none;
 	color:white;
-	padding-left: 50px;
+	padding: 60px 20px;
 	font-weight: 700;
 	border-radius:10px;
-
 
 }
 
 li.menu-item a:hover{
 	background-color:#1F6521;
-	
+
+
 }
 
 #jumbotron{
@@ -67,6 +66,10 @@ div#section-header{
 	text-align:center;
 	padding-top: 10px;
 	/*background-color: #EDF5E1;*/
+}
+
+#drop-down{
+	display:none;
 }
 
 
